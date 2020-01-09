@@ -1,0 +1,10 @@
+{
+    "name": "ali/composer-demo",
+    "authors": [
+        {
+            "name": "aliomer",
+            "email": "bluewolfali@gmail.com"
+        }
+    ],
+    "require": {}
+}
